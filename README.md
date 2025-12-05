@@ -2,10 +2,6 @@
 
 ### A passionate student from Michigan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marzc03&label=Profile views&color=0e75b6&style=flat" alt="marzc03" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marzc03" alt="marzc03" /></a> </p>
-
 - 🔭 I'm currently working on **Ves, a health app for students.**
 
 <h3 align="left">Connect with me:</h3>
