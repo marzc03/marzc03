@@ -2,8 +2,7 @@
 
 ### A passionate student from Michigan
 
-- 🔭 I'm currently working on **Ves, a health app for students.**
-- I just finished **Valencia, a free nutrition tracker**
+- 🔭 I'm currently working on **Ves, a health app for students.** and **Valencia, a free nutrition tracker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
