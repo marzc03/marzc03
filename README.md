@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cayla</h1>
+<h1 align="center">Hi 👋, I'm Cosimo</h1>
 <h3 align="center">A passionate student from Michigan</h3>
 
 - 🔭 I’m currently working on **Ves, a health app for students** and **Valencia, a free nutrition tracker**
