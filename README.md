@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cosimo</h1>
 <h3 align="center">A passionate student from Michigan</h3>
 
-- 🔭 I’m currently working on **Ves, a health app for students** and **Valencia, a free nutrition tracker**
+- 🔭 I’m currently working on **a Bachelor's Degrr**
 
 - 🌱 I’m currently learning **Firebase**
-
-- 👨‍💻 All of my projects are available at [https://marzbanc268.wixsite.com/cayla-marzban](https://marzbanc268.wixsite.com/cayla-marzban)
-
-- 📝 I regularly write articles on [https://marzbanc268.wixsite.com/cayla-marzban/blog](https://marzbanc268.wixsite.com/cayla-marzban/blog)
-
-- 📄 Know about my experiences [https://marzbanc268.wixsite.com/cayla-marzban/resume](https://marzbanc268.wixsite.com/cayla-marzban/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
