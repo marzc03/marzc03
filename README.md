@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cosimo</h1>
 <h3 align="center">A passionate student from Michigan</h3>
 
-- 🔭 I’m currently working on **a Bachelor's Degrr**
+- 🔭 I’m currently working on **a Bachelor's Degree**
 
 - 🌱 I’m currently learning **Firebase**
 
